@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2007.01.09 20:01:26.265.cpp,C:\Documents and Settings\Ru55\Мои документы\Borland Studio Projects\Unit1.cpp=C:\TilchiAgent\MainFormClass.cpp</Transaction>
+    <Transaction>2007.01.09 20:01:26.265.h,C:\Documents and Settings\Ru55\Мои документы\Borland Studio Projects\Unit1.h=C:\TilchiAgent\MainFormClass.h</Transaction>
+    <Transaction>2007.01.09 20:01:26.265.dfm,C:\Documents and Settings\Ru55\Мои документы\Borland Studio Projects\Unit1.dfm=C:\TilchiAgent\MainFormClass.dfm</Transaction>
+    <Transaction>2007.01.09 20:01:34.406.bdsproj,C:\Documents and Settings\Ru55\Мои документы\Borland Studio Projects\Project1.bdsproj=C:\TilchiAgent\TilchiAgent.bdsproj</Transaction>
+  </Transactions>
+</BorlandProject>
